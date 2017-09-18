@@ -8,7 +8,11 @@ curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-
 gedit ~/.bashrc
 ```
 
-COPIE AS ULTIMAS 3 LINHA DO RESULTADO DE "curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash"
+COPIE AS ULTIMAS 3 LINHA DO RESULTADO:
+
+```console
+"curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash"
+```
 
 EXEMPLO:
 
